@@ -1,0 +1,26 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prerna-Goel/Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prerna-Goel/Blockchain/issues"
+  },
+  "homepage": "https://github.com/Prerna-Goel/Blockchain#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "dependencies": {
+    "hex-to-binary": "^1.0.1"
+  }
+}
