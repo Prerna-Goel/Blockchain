@@ -21,6 +21,7 @@
     "jest": "^23.6.0"
   },
   "dependencies": {
+    "braces": "^3.0.2",
     "hex-to-binary": "^1.0.1"
   }
 }
