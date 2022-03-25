@@ -36,7 +36,7 @@
     "express": "^4.17.1",
     "hex-to-binary": "^1.0.1",
     "kind-of": "^6.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "pubnub": "^4.27.4",
     "redis": "^2.8.0",
     "request": "^2.88.2",
